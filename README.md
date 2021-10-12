@@ -1,5 +1,5 @@
 # Portfolio
-My Portfolio projects and publications:
+My Portfolio of projects and publications:
 
 1\. [Detect and Predict Seizure Onset](https://github.com/osama-sidahmed/capstone):
 A data science project using patient brain-wave activity in real-time by employing Deep Learning tools.
