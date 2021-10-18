@@ -12,4 +12,6 @@ A data science project using patient brain-wave activity in real-time by employi
 
 5\. [Git for Beginners](https://github.com/osama-sidahmed/Git-for-Beginners): A repo housing a series of articles shared on Medium.com to teach Git to Git beginner users - *code coming soon*. The article is published [here](https://omassoft123.medium.com/git-for-beginners-part-1-b00f6ba786c9) on Medium.com.
 
+6\. [Online_Retail_II_Clustering](https://github.com/osama-sidahmed/Online_Retail_II_Clustering): This project is dedicated to applying various clustering techniques on the UCI repo Online Retail II dataset. **-Ongoing-**
+
 **My page on <img src="https://user-images.githubusercontent.com/26442702/137505056-9ef69ecd-c582-4ab3-be08-fa63b59f77fd.jpg" width="100" > is [here](https://omassoft123.medium.com/).**
