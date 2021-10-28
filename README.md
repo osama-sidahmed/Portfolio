@@ -1,7 +1,7 @@
 # Portfolio
 My Portfolio of projects and publications:
 
-1\. [Detect and Predict Seizure Onset](https://github.com/osama-sidahmed/capstone):
+1\. [Detecting and Predicting Seizure Onset](https://github.com/osama-sidahmed/capstone):
 A data science project using patient brain-wave activity in real-time by employing Deep Learning tools.
 
 2\. [Disaster_tweet_Sentiment_analysis](https://github.com/osama-sidahmed/Disaster_tweet_Sentiment_analysis): A data science project to predict if a tweet relate to a real disastor or not. The project uses conventional ML and Deep Learning to predict the positive class. 
