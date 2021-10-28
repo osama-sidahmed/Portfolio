@@ -6,7 +6,7 @@ A data science project using patient brain-wave activity in real-time by employi
 **Type: Classification**
 
 2\. [Disaster_tweet_Sentiment_analysis](https://github.com/osama-sidahmed/Disaster_tweet_Sentiment_analysis): A data science project to predict if a tweet relate to a real disastor or not. The project uses conventional ML and Deep Learning to predict the positive class.  \
-**Type: Classification**
+**Type: NLP**
 
 3\. [Data Science Concepts](https://github.com/osama-sidahmed/data_science_concepts): This data science project is an attempt to share with beginner data scientists some basic and intermediate concepts to help them becoming better data scientists. The platform employs *Streamlit* for better interactivity. **-Ongoing-** \
 **Type: Classification, Regression, Similarity Matching, Clustering**
