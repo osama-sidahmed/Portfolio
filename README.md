@@ -1,4 +1,7 @@
 # Portfolio
+
+[<--Click here for my Portfolio Website-->](https://osama-sidahmed.github.io/)
+
 My Portfolio of projects and publications:
 
 1\. [Detecting and Predicting Seizure Onset](https://github.com/osama-sidahmed/capstone):
