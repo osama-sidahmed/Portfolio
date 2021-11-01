@@ -2,6 +2,14 @@
 
 [<--Click here for my Portfolio Website-->](https://osama-sidahmed.github.io/)
 
+------------------------------------
+
+
+[<--Click here for my page on Medium.com-->](https://osama-sidahmed.medium.com/)
+
+
+-----------------------------
+
 My Portfolio of projects and publications:
 
 1\. [Detecting and Predicting Seizure Onset](https://github.com/osama-sidahmed/capstone):
@@ -23,5 +31,3 @@ The best resulting Deep Learning model is used to build a functioning Streamlit 
 
 6\. [Brazilian_E-Commerce_Public_Dataset_by_Olist_Clustering](https://github.com/osama-sidahmed/Brazilian_E-Commerce_Public_Dataset_by_Olist_Clustering): This project is an unspervised learning project dedicated to applying various clustering techniques on the Brazilian E-Commerce Public Dataset by Olist version 6 dataset to identify natural customers. **-Ongoing-** \
 **Category: Clustering (Unsupervised Learning)**
-
-**My page on <img src="https://user-images.githubusercontent.com/26442702/137505056-9ef69ecd-c582-4ab3-be08-fa63b59f77fd.jpg" width="100" > is [here](https://osama-sidahmed.medium.com/).**
